@@ -14,3 +14,6 @@ Este projeto é um mini-sistema escolar desenvolvido em Java para praticar:
 - Sobrescrita de métodos
 - Exibição de dados no console com `System.out.println()`
 
+## Diagrama de Classes
+
+![Diagrama de Classes](diagrama-classes.png)
